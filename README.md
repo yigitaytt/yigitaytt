@@ -31,39 +31,9 @@ Languages and tools I use to bring ideas to life:
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yigitaytt&show_icons=true&theme=radical&hide_border=true" height="150" alt="Yiğit Aytürk's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitaytt&layout=compact&theme=radical&hide_border=true" height="150" alt="Yiğit Aytürk's Top Langs" />
-</div>
-
----
-
 ### 📫 Connect with Me
 
 Feel free to reach out for collaborations or just a tech chat:
 
-<p align="left">
-<a href="https://www.linkedin.com/in/yi%C4%9Fit-a-ba8915220/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yiğit Aytürk LinkedIn" />
-</a>
-<a href="mailto:yigit.ayturk@std.yildiz.edu.tr">
-  <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Yiğit" />
-</a>
-</p>
-
-<!--
-**yigitaytt/yigitaytt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi%C4%9Fit-a-ba8915220/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yigit.ayturk@std.yildiz.edu.tr)
